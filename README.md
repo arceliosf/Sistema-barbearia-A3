@@ -1,7 +1,7 @@
 # Sistema-barbearia-A3
 projeto A3 2026/01
 
-• Descrição
+## Descrição
 Este projeto tem como objetivo criar um sistema simples de agendamento online para barbearia, permitindo que clientes escolham serviços, horários e realizem agendamentos de forma prática.
 
 • Nicho
